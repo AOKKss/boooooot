@@ -38,4 +38,4 @@ client.on('message', message => {
     message.channel.send(`**avatar ... :** `);
   }
   });
-client.login("توكن")
+client.login("NTE2NTU1MDUxMDgzNDk3NDg0.Dt1bKA.HhVTbJ-h30T__227PDt4X3LtXxo")
